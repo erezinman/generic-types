@@ -1,7 +1,9 @@
-from generics.compat import Generic
+from .compat import Generic
+
 
 class GenericTypeMixin():
     pass
+
 
 class GenericType(Generic):
     pass
