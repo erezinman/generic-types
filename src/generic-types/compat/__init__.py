@@ -1,0 +1,1 @@
+from ._compat import Generic, OLD_GENERICS, GenericMeta
